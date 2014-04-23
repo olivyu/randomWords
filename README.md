@@ -1,5 +1,6 @@
-Creation a Linked List class - Spring 2014
+Linked List - Spring 2014
 
+This assignment is to create a linked list class on Java.
 
 This program will generate and manage random words. When the program first begins, ask the user how many words he wants to see. The number he chooses will be between 15 and 240. Then your program will generate that many 5-character “words” randomly – lowercase only. The random words will be stored in a linked list – alphabetically. Then the words will be displayed on the screen lined up nicely – 12 columns, and as many rows as needed. 
 
@@ -14,20 +15,20 @@ If (A)dd is selected, the program will generate a new random word and insert it 
 
 Example screen shot:
 
-abded   abehf   acopa   anerd   bdolj   belkd   elopd   frlok   fkijd   hikld   jkled   lkone	money   nifty   opens   qjild   sheyd   talks   weold   works   xikse   zebra
+> abded   abehf   acopa   anerd   bdolj   belkd   elopd   frlok   fkijd   hikld   jkled   lkone	money   nifty   opens   qjild   sheyd   talks   weold   works   xikse   zebra
 
-(A)dd	(D)elete	(Q)uit
+>(A)dd	(D)elete	(Q)uit
 
 > A
 
-abded   abehf   acopa   anerd   bdolj   belkd   elopd   frlok   fkijd   hikld   jkled   lkone	money   nifty   *north  opens   qjild   sheyd   talks   weold   works   xikse   zebra
+> abded   abehf   acopa   anerd   bdolj   belkd   elopd   frlok   fkijd   hikld   jkled   lkone	money   nifty   *north  opens   qjild   sheyd   talks   weold   works   xikse   zebra
 
-(A)dd	(D)elete	(Q)uit
+>(A)dd	(D)elete	(Q)uit
 
-> D
-> What word do you want to delete? 
-> talks
+>D
+>What word do you want to delete? 
+>talks
 	
-abded   abehf   acopa   anerd   bdolj   belkd   elopd   frlok   fkijd   hikld   jkled   lkone	money   nifty   north   opens   qjild   sheyd   weold   works   xikse   zebra
+> abded   abehf   acopa   anerd   bdolj   belkd   elopd   frlok   fkijd   hikld   jkled   lkone	money   nifty   north   opens   qjild   sheyd   weold   works   xikse   zebra
 
-(A)dd	(D)elete	(Q)uit
+>(A)dd	(D)elete	(Q)uit
